@@ -1,0 +1,9 @@
+
+test/pact/dist/*
+test/pact/pacts/*
+**/.eslintrc.js
+dist
+logs
+scripts
+node_modules
+flow-typed
